@@ -1,0 +1,4 @@
+username,firstname,lastname,email,password
+mu1,Nazmul,Khan,test1@gmail.com,123
+mu2,Samiul,Islam,test2@gmail.com,123
+mu3,Anamul,Haque,text3@gmail.com,123
